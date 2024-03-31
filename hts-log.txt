@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 31 Mar 2024 03:04:49 at https://salla.sa/lvainoad https://salla.sa/lvainoad +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://salla.sa/lvainoad https://salla.sa/lvainoad -O1 "C:\My Web Sites\tryrtytr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:05:09	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://salla.sa/lvainoad)
+03:05:13	Warning: 	Link https://salla.sa/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+03:05:15	Error: 	"Error when decompressing" (-1) at link https://salla.sa/lvainoad/عن-المتجر/page-947684583 (from https://salla.sa/lvainoad)
+03:05:15	Warning: 	Found for https://salla.sa/?utm_source=store&utm_medium=footer&utm_campaign=lvainoad
+03:05:15	Warning: 	File has moved from https://salla.sa/?utm_source=store&utm_medium=footer&utm_campaign=lvainoad to https://salla.sa/site/?utm_campaign=lvainoad&utm_medium=footer&utm_source=store
+03:05:16	Error: 	"Gone" (410) at link https://salla.sa/lvainoad/SallaDev (from https://salla.sa/lvainoad/offers)
+03:05:17	Warning: 	Moved Permanently for https://salla.sa/site/?utm_campaign=lvainoad%26utm_medium=footer%26utm_source=store
+03:05:17	Warning: 	File has moved from https://salla.sa/site/?utm_campaign=lvainoad%26utm_medium=footer%26utm_source=store to https://salla.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 58 links scanned, 51 files written (11485380 bytes overall) [8676390 bytes received at 309871 bytes/sec], 3966754 bytes transferred using HTTP compression in 37 files, ratio 25%, 3.4 requests per connection
+(3 errors, 5 warnings, 0 messages)
